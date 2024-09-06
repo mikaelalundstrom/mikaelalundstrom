@@ -2,6 +2,7 @@ Hi I'm @mikaelalundstrom, currently studying frontend development.
 
 ### Some stuff I've made:
 - [Todo List](https://mikaelalundstrom.github.io/exercise-react-todo/)
+- [Countdown timer](https://mikaelalundstrom.github.io/exercise-react-countdown-timer/)
 
 
 <!---
