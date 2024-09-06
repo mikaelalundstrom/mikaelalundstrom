@@ -5,6 +5,7 @@ Note: Everything here is built for desktop/pc dimensions, unless otherwise state
 
 #### HTML/CSS
 - 🐦 [Birds](https://mikaelalundstrom.github.io/magical-birds/) / [(Repo)](https://github.com/mikaelalundstrom/magical-birds)
+- 🌺 [CSS Animation Exercises](https://mikaelalundstrom.github.io/exercise-animation-bootcamp/) / [(Repo)](https://github.com/mikaelalundstrom/exercise-animation-bootcamp)
 
 #### React
 - 📝 [Todo List](https://mikaelalundstrom.github.io/exercise-react-todo/) / [(Repo)](https://github.com/mikaelalundstrom/exercise-react-todo)
