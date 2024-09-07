@@ -6,7 +6,7 @@ Note: Everything here is built for desktop/pc dimensions, unless otherwise state
 #### Vanilla HTML/CSS/JavaScript
 - 🐦 [Birds](https://mikaelalundstrom.github.io/magical-birds/) / [(Repo)](https://github.com/mikaelalundstrom/magical-birds)
 - 🌺 [CSS Animation Exercises](https://mikaelalundstrom.github.io/exercise-animation-bootcamp/) / [(Repo)](https://github.com/mikaelalundstrom/exercise-animation-bootcamp)
-- 🎲 [LoL Randomizer](https://mikaelalundstrom.github.io/lol-randomizer/) / [(Repo)](https://github.com/mikaelalundstrom/lol-randomizer)
+- 🎲 [LoL Randomizer](https://mikaelalundstrom.github.io/lol-randomizer/) (mobile view ok) / [(Repo)](https://github.com/mikaelalundstrom/lol-randomizer)
 
 #### Typescript/React
 - 📝 [Todo List](https://mikaelalundstrom.github.io/exercise-react-todo/) / [(Repo)](https://github.com/mikaelalundstrom/exercise-react-todo)
